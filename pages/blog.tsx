@@ -1,7 +1,11 @@
+import Layout from "../component/Layout";
+
 export default function blog() {
   return (
-    <div>
-      <p className="title">Blog</p>
-    </div>
+  <Layout>
+    <p className="title">Blog</p>
+  </Layout>
+      
+    
   );
 }
