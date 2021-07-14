@@ -2,7 +2,7 @@ import Layout from "../component/Layout";
 
 export default function blog() {
   return (
-  <Layout>
+  <Layout pageTitle="Blog">
     <p className="title">Blog</p>
   </Layout>
       
